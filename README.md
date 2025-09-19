@@ -12,7 +12,7 @@ A comprehensive machine learning pipeline to predict heart disease using the UCI
 ## How to Run
 
 1.  **Clone the repository:**
-    `git clone <your-repo-url>`
+    `git clone https://github.com/mashaal03/Heart_Disease_Project.git`
 2.  **Create and activate the conda environment:**
     `conda create --name heart_disease_env python=3.9`
     `conda activate heart_disease_env`
