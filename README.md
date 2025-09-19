@@ -20,3 +20,6 @@ A comprehensive machine learning pipeline to predict heart disease using the UCI
     `pip install -r requirements.txt`
 4.  **Run the Streamlit app:**
     `streamlit run ui/app.py`
+5.  **Deployment**
+    `This application can be temporarily deployed using ngrok. After running the app locally, use the following command in a new terminal:`
+    `ngrok http 8501`    
